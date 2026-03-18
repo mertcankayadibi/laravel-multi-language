@@ -17,8 +17,8 @@ A simple and clean multi-language (i18n) implementation in Laravel using locale-
 
 ### 1. Clone the project
 ```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
+git clone https://github.com/mertcankayadibi/laravel-multi-language.git
+cd laravel-multi-language
 ```
 
 ### 2. Install dependencies
